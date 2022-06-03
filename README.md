@@ -1,7 +1,7 @@
-# learning-resources
+# Web Development Learning Resources 
 
 ## General Resources
-----------------------------
+
 ### Skillshare Courses
 [Link text Here](https://skillshare.com): Description of the resource
 
